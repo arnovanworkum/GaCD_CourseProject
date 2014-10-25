@@ -14,6 +14,11 @@ run_analysis.R
 Input:  UCI HAR Dataset in extract form
 Output: tidy_data_set.txt (in the working directory)
 
+tidy_data_set.txt
+-----------------
+The actual output
+
 CodeBook.md
 -----------
 Explanation of the data, variables and transformation steps
+
